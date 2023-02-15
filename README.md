@@ -1,16 +1,38 @@
-### Hi there 👋
+# Backend разработчик на Python
 
-<!--
-**Mistyhops/Mistyhops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Ключевые компетенции
+1. Python 3
+2. ООП
+3. Django
+4. Django Rest Framework
+5. PostgreSQL
+6. Redis
+7. Celery
+8. Git
 
-Here are some ideas to get you started:
+### Инструменты:
+1. Pycharm
+2. GitHub 
+3. PgAdmin 4 
+4. Jira 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Опыт работы
+
+1. Курсы SkillFactory FullStack Developer.
+В рамках обучения:
+- Писал telegram бота на python
+- Изучил ООП
+- Запускал периодические задачи на Celery
+- Немного затронул алгоритмы и структуры данных
+- Приобрел навыки работы с HTML, CSS, JS, React JS и AJAX
+- Настраивал PostgreSQL и Redis
+
+
+## В процессе изучения
+В данный момент углубляюсь в изучение баз данных на примере PostgreSQL.
+
+
+
+## Контакты
+Telegram: @NedGalkin \
+WhatsApp: +7(915)229-44-92
