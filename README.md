@@ -5,10 +5,11 @@
 2. ООП
 3. Django
 4. Django Rest Framework
-5. PostgreSQL
-6. Redis
-7. Celery
-8. Git
+5. SQL
+6. PostgreSQL
+7. Redis
+8. Celery
+9. Git
 
 ### Инструменты:
 1. Pycharm
@@ -18,7 +19,16 @@
 
 ## Опыт работы
 
-1. Курсы SkillFactory FullStack Developer.
+1. Стажировка в Cloveri на позиции Backend разработчика.
+- Стек: Python/Django + DRF
+- Освоил работу с Git в команде
+- Научился реализовывать представление структуры данных в виде дерева в базе данных используя паттерн materialized path
+- И создавать API для работы с такой базой данных
+- Получил навыки написания сырых SQL запросов
+
+Ссылка на демонстрационный репозиторий проекта: https://github.com/Mistyhops/cloveri
+
+2. Курсы SkillFactory FullStack Developer.
 В рамках обучения:
 - Писал telegram бота на python
 - Изучил ООП
